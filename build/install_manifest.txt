@@ -1,0 +1,2 @@
+/usr/local/lib/libMyVec.so
+/usr/local/include/MyVec.h

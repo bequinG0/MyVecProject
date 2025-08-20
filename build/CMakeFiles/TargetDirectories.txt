@@ -1,0 +1,7 @@
+/home/bequ1n/sandbox/works-with-git/MyVec/build/CMakeFiles/MyVec.dir
+/home/bequ1n/sandbox/works-with-git/MyVec/build/CMakeFiles/edit_cache.dir
+/home/bequ1n/sandbox/works-with-git/MyVec/build/CMakeFiles/rebuild_cache.dir
+/home/bequ1n/sandbox/works-with-git/MyVec/build/CMakeFiles/list_install_components.dir
+/home/bequ1n/sandbox/works-with-git/MyVec/build/CMakeFiles/install.dir
+/home/bequ1n/sandbox/works-with-git/MyVec/build/CMakeFiles/install/local.dir
+/home/bequ1n/sandbox/works-with-git/MyVec/build/CMakeFiles/install/strip.dir
