@@ -11,6 +11,7 @@ class MyVec
     private:
         size_t data_size; // размер 
         forvec *data; // данные + указатель на начало, аналогично C
+        size_t hello;
     public:
         MyVec(forvec temp) {
             data_size = 0;    
